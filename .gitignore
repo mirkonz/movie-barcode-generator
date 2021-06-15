@@ -1,0 +1,7 @@
+# IDE / Editor
+.idea
+.editorconfig
+.code-workspace
+
+# Mac OSX
+.DS_Store
